@@ -1,9 +1,9 @@
 **Overview of the Image Classification Model**
 
-🧠 Objective:
+ Objective:
 The aim of this project is to build and train an Image Classification Model using deep learning. The goal is to classify images into predefined categories (e.g., cats vs. dogs, digits, or other objects) by learning from labeled image data.
 
-🧾 Core Components:
+ Core Components:
 1. Data Loading and Preprocessing
 Loads image data, often from a directory structure where folders represent class labels.
 
@@ -58,7 +58,7 @@ Confusion Matrix (if included)
 6. Prediction
 The trained model is used to predict the class of new, unseen images.
 
-⚙️ Implementation Details
+Implementation Details
 Developed using Python with frameworks such as:
 
 TensorFlow/Keras for model building
